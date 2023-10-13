@@ -43,7 +43,8 @@ java -jar validator.jar password 0.0.0.0.0
 https://faucet.pwrlabs.io/
 ```
 
-![image](https://github.com/ruesandora/PWR/assets/101149671/4d98cbf8-1191-4875-8a6f-0a58ea6f5c0f)
+![image](https://github.com/ruesandora/PWR/assets/101149671/7c4a1992-aa26-424a-8a2f-3f570fc93728)
+
 
 > [Discorddan](https://discord.gg/WZQnA5qv) rol alırsınız Validatör.
 
