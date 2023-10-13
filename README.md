@@ -1,10 +1,12 @@
 <h1 align="center"> PWR Chain </h1>
 
-<h1 align="center"> Kurulum nedenlerim </h1>
+<h1 align="center"> Notlar </h1>
 
 > Tokenomicsi görmüştüm [docs](https://docsend.com/view/wuhzf7amksymr279)'dan kaldırmışlar şimdi
 
 > Donanımı çok düşük - Ödül belirsiz - Aktif cihazlarımın yanına kurdum
+
+> Topluluk kanalları: [Telegram Duyuru](https://t.me/RuesAnnouncement) - [Telegram Sohbet](https://t.me/RuesChat) - [Yeni Kanalımız](https://whatsapp.com/channel/0029VaBcj7V1dAw1H2KhMk34)
 
 <h1 align="center"> Donanım </h1>
 
