@@ -47,3 +47,5 @@ https://faucet.pwrlabs.io/
 
 > [Discorddan](https://discord.gg/WZQnA5qv) rol alırsınız Validatör.
 
+> [Website](https://www.pwrlabs.io/)
+
