@@ -31,7 +31,7 @@ wget https://cdn.discordapp.com/attachments/688379528070037509/11623739551229010
 
 sudo touch password
 
-# içine şifreyi yazın
+# içine bir şifre yazın
 sudo nano password
 # kaydedip çıkın (CTRL X Y ENTER)
 ```
